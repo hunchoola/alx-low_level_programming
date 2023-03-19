@@ -34,10 +34,7 @@ int main(void)
 	return (0);
 
 }
-
-
 2-print_alphabet.c
-
 #include <stdio.h>
 
 /**
@@ -57,4 +54,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
