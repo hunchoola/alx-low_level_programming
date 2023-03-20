@@ -34,7 +34,7 @@ int main(void)
 	return (0);
 
 }
-2-print_alphabet.c
+2 print_alphabet.c
 #include <stdio.h>
 
 /**
