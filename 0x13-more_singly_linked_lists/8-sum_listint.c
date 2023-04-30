@@ -1,5 +1,3 @@
-8-sum_listint.c
-
 #include "lists.h"
 
 /**
